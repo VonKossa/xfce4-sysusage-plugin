@@ -1,0 +1,12 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Sysusage
+Comment=Graphical representation of memory and network usage
+_Name=Sysusage
+_Comment=Graphical representation of memory and network usage
+Icon=xfce4-sysusage-plugin
+X-XFCE-API=2.0
+X-XFCE-Module=sysusage
+X-XFCE-Internal=false
+X-XFCE-Unique=false
